@@ -1,0 +1,14 @@
+Test Accuracy: 0.9524999856948853
+Test Loss: 0.13496065139770508
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       PAM_1       0.96      0.94      0.95       300
+       PAM_2       0.94      0.93      0.93       300
+       PAM_3       0.99      1.00      1.00       300
+       PAM_4       0.92      0.94      0.93       300
+
+    accuracy                           0.95      1200
+   macro avg       0.95      0.95      0.95      1200
+weighted avg       0.95      0.95      0.95      1200
